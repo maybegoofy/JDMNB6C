@@ -17,7 +17,8 @@ V-MAXX Classic Coilovers
 Flyin' Miata Sway Bars
 15x8 Advanti Storm S1 wheels
 205/50/R15 Nitto Neo Gen (will be moving to Yokohama Advan AD08R)
-
+OEM torsen LSD
+OEM 5spd transmission
 
 
 
