@@ -5,7 +5,7 @@ for the base model https://youtu.be/cjtic7gwvgo?si=TLE7DUvp-MexfQhO
 Used Scaniverse to scan bumper.
 
 Car Specs:
-Front lip - I have no idea?
+Front lip - Garage Vary?
 Tupperware front and rear mudguards
 Rear Spoiler, Type A, Floating Type (N001 V4 920N) from the Eunos Roadster Shop Options catalogue (credit to u/sonoda_kotori for finding it https://www.reddit.com/r/Miata/comments/y5v7o8/does_anybody_have_any_information_on_what_this/ )
 https://www.roadster.blog/2013/06/roadster-shop-options.html OEM bodykits catalog

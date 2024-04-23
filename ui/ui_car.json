@@ -1,0 +1,218 @@
+{
+  "name": "Mazda Roadster 1.8 RS (NB)",
+  "brand": "Mazda",
+  "description": "In January 1998, nine years after its debut and became an instant classic, the second generation arrived. In Japan, Mazda&#39;s Eunos brand had disappeared, so the car became known simply as the Mazda Roadster. Although the look has slightly changed from the original model, the car retained the qualities that made the first-gen Roadster so endearing. Like the original, it was developed under the &quot;rider, horse, one body&quot; philosophy.<br><br>Under the hood was the same engine as before, a 1.8L DOHC inline-4 , but output was bumped to 143 BHP and 120.0 lb-ft. Mazda also introduced a new 6-speed manual gearbox to the options list. The first minor change happened in July 2000, when the new 1.8L S-VT was introduced (S-VT stood for Sequential Valve Timing), allowing the 4-cylinder engine to produce 158 HP and 125.1 lb-ft of torque. In Japan, the 1.6-liter DOHC inline-4, rated at 123 HP and 104.8 lb-ft of torque, was revived to go along with a 5-speed manual transmission. In addition to the engine tweaks, Mazda reinforced the body to accommodate the extra power. Also, a new model, the RS-II that featured 16-in. wheels, was added to the lineup. At the end of 2003, a turbocharged version was introduced, boasting 170 HP and 154.0 lb-ft of torque, giving the fun little convertible a mean side.<br><br>---EDIT POLICY---<br><br>I have left this stock NB unencrypted to let the community have fun with making edits and enjoying this car in more ways than it&#39;s stock form. Anyone is allowed to make edits of this mod (feel free to message me any edits you make if you think I will enjoy them), the only requirement is I would like to be mentioned in the credits for any major releases of edits of this car. <br><br>---CREDITS---<br><br>Base Model - Microsoft Studios<br>1.8 RS Parts - DeathRace/Tousan/HUM3D<br>AC Adaptation - Sam S./RKGaming<br>Physics - Sam S./Josh R.<br>Sound - Kunos<br>Description - Polyphony Digital",
+  "tags": [
+    "#small sports",
+    "rwd",
+    "manual",
+    "street",
+    "japan"
+  ],
+  "class": "street",
+  "specs": {
+    "bhp": "143 bhp",
+    "torque": "163 Nm",
+    "weight": "1030kg",
+    "topspeed": "214km/h",
+    "acceleration": "7.8s 0-100",
+    "pwratio": "7.2 kg/hp"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      1500.0,
+      111.05882352941177
+    ],
+    [
+      2000.0,
+      129.64705882352942
+    ],
+    [
+      2500.0,
+      140.70588235294119
+    ],
+    [
+      3000.0,
+      148.11764705882354
+    ],
+    [
+      3500.0,
+      153.41176470588238
+    ],
+    [
+      4000.0,
+      157.29411764705881
+    ],
+    [
+      4500.0,
+      160.47058823529412
+    ],
+    [
+      5000.0,
+      162.94117647058823
+    ],
+    [
+      5500.0,
+      161.41176470588235
+    ],
+    [
+      6000.0,
+      159.64705882352939
+    ],
+    [
+      6500.0,
+      156.58823529411765
+    ],
+    [
+      7000.0,
+      143.29411764705881
+    ],
+    [
+      7500.0,
+      125.88235294117648
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      75.0,
+      0.058488622896172827
+    ],
+    [
+      150.0,
+      0.23395449158469131
+    ],
+    [
+      225.0,
+      0.52639760606555552
+    ],
+    [
+      300.0,
+      0.93581796633876524
+    ],
+    [
+      375.0,
+      1.4622155724043209
+    ],
+    [
+      450.0,
+      2.1055904242622221
+    ],
+    [
+      525.0,
+      2.8659425219124683
+    ],
+    [
+      600.0,
+      3.743271865355061
+    ],
+    [
+      675.0,
+      4.73757845459
+    ],
+    [
+      750.0,
+      5.8488622896172835
+    ],
+    [
+      825.0,
+      7.0771233704369125
+    ],
+    [
+      900.0,
+      8.4223616970488884
+    ],
+    [
+      975.0,
+      9.8845772694532084
+    ],
+    [
+      1050.0,
+      11.463770087649873
+    ],
+    [
+      1200.0,
+      14.973087461420244
+    ],
+    [
+      1350.0,
+      18.95031381836
+    ],
+    [
+      1500.0,
+      23.395449158469134
+    ],
+    [
+      1800.0,
+      30.893888880276787
+    ],
+    [
+      2000.0,
+      36.414950526317774
+    ],
+    [
+      5000.0,
+      114.41630326440588
+    ],
+    [
+      6000.0,
+      134.5238326611975
+    ],
+    [
+      6500.0,
+      142.94189858368338
+    ],
+    [
+      6525.0,
+      142.88256319753202
+    ],
+    [
+      6600.0,
+      142.67655189336912
+    ],
+    [
+      6675.0,
+      142.42853287064307
+    ],
+    [
+      6750.0,
+      142.13850612935389
+    ],
+    [
+      6825.0,
+      141.80647166950158
+    ],
+    [
+      6900.0,
+      141.43242949108611
+    ],
+    [
+      7000.0,
+      140.86836124654508
+    ],
+    [
+      7200.0,
+      137.85074483813912
+    ],
+    [
+      7425.0,
+      133.98826522866094
+    ],
+    [
+      7500.0,
+      132.59073410784944
+    ]
+  ],
+  "country": "Japan",
+  "author": "Sam S.",
+  "version": "1.0",
+  "url": "https://discord.gg/9N3p43GtXd",
+  "year": 1998
+}
