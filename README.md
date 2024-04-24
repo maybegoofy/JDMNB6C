@@ -20,5 +20,6 @@ Flyin' Miata Sway Bars
 OEM torsen LSD
 OEM 5spd transmission
 
+power ratio from base 1.8: 0.891666156781088
 
 
