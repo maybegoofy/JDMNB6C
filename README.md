@@ -1,4 +1,4 @@
-A mod to add my JDM NB6 Mx5 to Assetto Corsa
+A mod to add my JDM NB6 Mx5 to Assetto Corsa (@MayTheMazda on instagram)
 
 Resources:
 for the base model https://youtu.be/cjtic7gwvgo?si=TLE7DUvp-MexfQhO
@@ -21,5 +21,6 @@ OEM torsen LSD
 OEM 5spd transmission
 
 power ratio from base 1.8: 0.891666156781088
+
 
 
