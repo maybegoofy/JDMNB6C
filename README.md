@@ -22,5 +22,21 @@ OEM 5spd transmission
 
 power ratio from base 1.8: 0.891666156781088
 
+09.10.2026 - Changes have been made to the car in the last 2 years. Will update ingame eventually.
+Current setup(as it differs from above)
+- Carbon fiber hood and fenders
+- "frog arm" fender braces
+- Cobalt twintip axleback with custom catless midpipe.
+- Corbeau Forza seats
+- Braum 5pt harnesses
+- Super short "cold air" intake (About 7-8 inches from the throttle body)
+- 205/50/r15 Yokohama Advan AD09s
+- ME442 ecu with a tune for E15
+- Ford focus "fang" fog lights
+- LRBSpeed Aero undertray/skidplate
+- Powerstop drilled and slotted rotors with ceramic pads
+- DOT4 brake fluid
+- Removed front spats
+- Removed front lip
 
 
